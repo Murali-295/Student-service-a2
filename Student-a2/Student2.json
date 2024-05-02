@@ -1,0 +1,9 @@
+{
+	"firstName" :"Hemanth",
+	"lastName" :"Kolli",
+	"clasS" :7,
+	"address":"Palasa",
+	"marks":{"Maths":98,"Physics":90,"Chemistry":85,"Telugu":95},
+        "totalMarks":0,
+        "percentage":0.0
+}

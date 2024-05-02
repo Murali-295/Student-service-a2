@@ -1,0 +1,9 @@
+{
+	"firstName" :"Murali",
+	"lastName" :"Kolli",
+	"clasS" :7,
+	"address":"Palasa",
+	"marks":{"Maths":99,"Physics":98,"Chemistry":97,"Telugu":99},
+        "totalMarks":0,
+        "percentage":0.0
+}

@@ -1,0 +1,9 @@
+{
+	"firstName" :"Pavan",
+	"lastName" :"Kumar",
+	"clasS" :10,
+	"address":"Palasa",
+	"marks":{"Maths":80,"Physics":82,"Chemistry":80,"Telugu":78},
+        "totalMarks":0,
+        "percentage":0.0
+}
